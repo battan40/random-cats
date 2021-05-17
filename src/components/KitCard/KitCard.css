@@ -1,0 +1,17 @@
+.kitten-card {
+  box-sizing: border-box;
+  border: 3px solid black;
+  padding: 10px;
+  width: 12rem;
+}
+
+.movie-image {
+  width: 100%;
+  height: auto;
+  margin-bottom:2%;
+  border-radius: 2%
+}
+
+.favorite {
+  background-color: blue;
+}
